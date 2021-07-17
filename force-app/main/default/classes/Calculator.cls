@@ -6,4 +6,7 @@ public with sharing class Calculator {
         return a+b;
         
     }
+    public static Integer  substract(Integer a, Integer b) {
+        return a-b;
+    }
 }
